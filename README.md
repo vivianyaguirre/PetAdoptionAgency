@@ -1,4 +1,4 @@
-# PetAdoptionAgency
+# Dream Team MIST 4610 Group Project 1
 
 ## Team Name 
 Dream Team
