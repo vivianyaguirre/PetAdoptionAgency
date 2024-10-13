@@ -82,7 +82,8 @@ Query 9: This query lists employees and their current supervisor. Additionally, 
 
 <img width="630" alt="Q9" src="https://github.com/user-attachments/assets/b8d3a403-81b0-427d-b533-724969c3f1ef">
 
-Q9 Managerial Perspective: 
+Q9 Managerial Perspective: This query provides a clear overview of employees along with their current supervisors, enhancing organizational transparency and accountability. It includes essential information about both the employee and supervisor, such as their names and the locations where they work. By displaying this hierarchical structure, the query helps to clarify reporting relationships within the organization, making it easier for team members to understand their points of contact and lines of communication. Additionally, this information can assist management in evaluating team dynamics and ensuring that employees have access to appropriate support and guidance from their supervisors. Overall, the query serves as a valuable resource for improving communication and collaboration within the workplace.
+
 
 
 Query 10: This Query gathers current contact information for employees at all of the shelters. 
