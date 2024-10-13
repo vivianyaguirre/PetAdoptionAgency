@@ -74,7 +74,7 @@ Query 8: Provide a detailed list of all pets currently availible for adoption. I
 
 <img width="630" alt="Q8" src="https://github.com/user-attachments/assets/fc180368-634f-47d3-a3ba-ac002baf4fc5">
 
-Q8 Managerial Perspective: 
+Q8 Managerial Perspective: This query generates a comprehensive list of all pets currently available for adoption, presenting essential details to facilitate the adoption process. It includes vital information such as the pet ID and shelter ID, as well as the pet's name, species, breed, age, and sex. This detailed data is instrumental for potential adopters, as it enables them to make informed decisions when selecting a pet that fits their preferences and lifestyle. Additionally, the query assists shelter staff in managing their adoption records effectively, ensuring that all available pets are accurately represented. By providing this information, the query supports the goal of connecting pets with loving homes, ultimately enhancing the adoption experience for both pets and prospective owners.
 
 
 
