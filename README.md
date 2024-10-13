@@ -60,8 +60,7 @@ Query 6: Select average quantity of the supplies per shelter, along with a total
 
 <img width="630" alt="Q6" src="https://github.com/user-attachments/assets/33af0548-e79d-47b4-bdd6-e83c5c27be93">
 
-Q6 Managerial Perspective: 
-
+Q6 Managerial Perspective: This query retrieves the average quantity of supplies available per shelter, along with a total count of each type of supply at each shelter. By providing insights into the distribution and availability of supplies, shelter managers can better understand which locations may need restocking or redistribution of resources. The data can also help identify shelters that manage their supplies more efficiently or those that may require additional support. This information is critical for maintaining smooth shelter operations and ensuring that each location has the necessary resources to care for its animals effectively.
 
 
 Query 7: This query tracks volunteer involvement through the events they have participated in by shelter.
