@@ -28,7 +28,7 @@ Query 1: Retrieve a summary of pets with health issues. Include the shelter name
 Q1 Managerial Perspective: This query generates a summary of pets with health issues across various shelters. It provides the shelter name, the count of pets that are classified as unhealthy, their current health status, and their adoption status. This information can be used to monitor shelters with a higher concentration of pets that require medical attention, potentially identifying shelters that may need additional resources or support. Additionally, the adoption status data helps track the outcomes for pets with health issues, offering insights into how effectively shelters are managing the adoption process for animals with medical concerns.
 
 
-Query 2: Find Pets and Their Foster Records that occured during 2024. This query finds pets and their foster records for those who were fostered between specific dates.
+Query 2: Find pets and their foster records that occured during 2024. This query finds pets and their foster records for those who were fostered between specific dates.
 
 <img width="628" alt="Q2" src="https://github.com/user-attachments/assets/18f94468-229c-4ab1-98b6-1f389a3a769d">
 
@@ -86,7 +86,7 @@ Q9 Managerial Perspective: This query provides a clear overview of employees alo
 
 
 
-Query 10: This Query gathers current contact information for employees at all of the shelters. 
+Query 10: This query gathers current contact information for employees at all of the shelters. 
 
 <img width="630" alt="Q10" src="https://github.com/user-attachments/assets/e3ab1bd8-9750-4603-b060-3c0c06ede16d">
 
