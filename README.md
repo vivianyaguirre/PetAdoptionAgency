@@ -17,6 +17,20 @@ This database supports the organization of a sample Pet Adoption System. It cove
 ![pet-eer](https://github.com/user-attachments/assets/ee5abaf2-832e-4053-b8b0-7ee07b7c0317)
 
 ## Data Dictionary 
+![image](https://github.com/user-attachments/assets/8ede5bf4-c3b9-4237-b0c0-c5eadb5178f6)
+![image](https://github.com/user-attachments/assets/66474dc0-bd61-47c9-a967-4f19e10fcf52)
+![image](https://github.com/user-attachments/assets/c3d3b127-e313-4c56-b321-96a9bc30aa71)
+![image](https://github.com/user-attachments/assets/a69e0064-e8bf-42c7-b8a2-751e8399b243)
+![image](https://github.com/user-attachments/assets/dc38b102-9d49-4966-a55e-a51f9bb7f82b)
+![image](https://github.com/user-attachments/assets/a162d556-3080-44ac-8263-48925b5369ba)
+![image](https://github.com/user-attachments/assets/ec351849-6b58-4366-94b4-29d3203b0ef0)
+![image](https://github.com/user-attachments/assets/04d80a75-e822-4991-9478-3da09f71cba1)
+![image](https://github.com/user-attachments/assets/76c8096f-cedc-46ea-b1c4-4f64cc9d7e5d)
+![image](https://github.com/user-attachments/assets/9707be35-6fa5-4146-a37b-293f81a386d1)
+![image](https://github.com/user-attachments/assets/7bd27824-2022-4494-8ed0-674ffb0a32ef)
+![image](https://github.com/user-attachments/assets/2024f8ec-079b-45a2-b82f-1e415066e99c)
+![image](https://github.com/user-attachments/assets/4a4d2ac4-cd79-405d-9d80-c2ef5b55eb82)
+![image](https://github.com/user-attachments/assets/414d6e87-04f1-4abe-b7ba-f92d63a1409c)
 
 ## Queries 
  INSERT QUERY TABLE HERE !!!!!
