@@ -46,7 +46,7 @@ Query 4: This query calculates the average age of pets adopted from each shelter
 
 <img width="628" alt="Q4" src="https://github.com/user-attachments/assets/23bfeae0-ee25-424d-a5e4-3d60e8fec4df">
 
-Q4 Managerial Perspective: 
+Q4 Managerial Perspective: This query calculates the average age of pets adopted from each shelter, providing insight into adoption trends related to pet age. Shelters can use this information to understand whether younger or older pets are more frequently adopted, which can inform strategies for promoting the adoption of different age groups. Knowing the average age of adopted pets may also help shelters tailor their care and outreach efforts, ensuring they meet the needs of both younger and older pets to improve overall adoption rates. This data is valuable for making informed decisions on how to market pets for adoption.
 
 
 Query 5: This query shows the most common pet breeds across all shelters, grouped by breed and ordered by the number of adoptions in descending order.
