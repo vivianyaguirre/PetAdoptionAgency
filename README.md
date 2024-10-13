@@ -91,7 +91,7 @@ Query 10: This Query gathers current contact information for employees at all of
 <img width="630" alt="Q10" src="https://github.com/user-attachments/assets/e3ab1bd8-9750-4603-b060-3c0c06ede16d">
 
 
-Q10 Managerial Perspective: 
+Q10 Managerial Perspective: This query focuses on collecting up-to-date contact information for employees working at all shelters, which is crucial for effective communication and operational efficiency. By aggregating details such as phone numbers and email addresses, the query ensures that management and team members can easily reach out to one another as needed. Having current contact information enhances coordination between shelters and facilitates quick responses to various situations, including emergencies or staffing changes. Furthermore, this data is essential for maintaining an organized communication system, enabling seamless collaboration among employees. Overall, this query plays a vital role in fostering a well-connected and responsive workforce across all shelter locations.
 
  
 
