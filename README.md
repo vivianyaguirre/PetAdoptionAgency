@@ -31,7 +31,7 @@ Query 2: Find Pets and Their Foster Records that occured during 2024. This query
 
 <img width="628" alt="Q2" src="https://github.com/user-attachments/assets/18f94468-229c-4ab1-98b6-1f389a3a769d">
 
-Q2 Managerial Perspective: 
+Q2 Managerial Perspective: This query identifies pets and their foster records from 2024, focusing on those placed in foster care within specific start and end dates. By tracking the duration and number of foster placements for each pet, management can monitor foster program activity and assess how effectively pets are being matched with foster families. This data helps identify pets with extended foster stays or multiple placements, which may signal a need for additional resources or better matching strategies. It also supports more efficient resource allocation, ensuring pets and foster families receive the appropriate level of support. Ultimately, these insights can guide improvements in the foster care process and help increase adoption rates.
 
 
 Query 3: Find out which shelters have administered the highest number of different medications to their pets. 
