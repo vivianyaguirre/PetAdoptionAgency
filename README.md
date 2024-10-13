@@ -10,7 +10,7 @@ Dream Team
 4. Lance Moxley
 
 ## Problem Description:
-This database supports the organization of a sample Pet Adoption System. It covers many Pet Adoption operations including Adopting, Fostering, Pet Care, Adoption Center Supply Management, Adoption Events, Employee Supervision etc. Queries can be conducted on this database to provide managerial insight on process operations.
+This database supports the organization of a sample Pet Adoption System. It covers many Pet Adoption operations including Adopting, Fostering, Pet Care, Adoption Center Supply Management, Adoption Events, Employee Supervision etc. Queries can be conducted on this database to provide managerial insight on process operations. Furthermore, through this project, we would like to perform queries on the data model in order to prove why Managers would care about this database, and how they can utilize it to improve their operational efficiency. 
 
 
 ## Data Model 
