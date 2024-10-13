@@ -53,8 +53,7 @@ Query 5: This query shows the most common pet breeds across all shelters, groupe
 
 <img width="628" alt="Q5" src="https://github.com/user-attachments/assets/d4c4acee-8499-48d3-b359-3624d089ec0c">
 
-Q5 Managerial Perspective: 
-
+Q5 Managerial Perspective: This query identifies the most common pet breeds across all shelters, grouped by breed and ranked by the number of adoptions in descending order. By revealing which breeds are adopted most frequently, shelters can adjust their resources and promotional efforts based on breed popularity. This information can be useful for targeting potential adopters who are interested in specific breeds and for planning future intakes. Additionally, shelters can analyze trends in breed adoptions to better meet the preferences of their communities and manage breed-specific needs more effectively.
 
 
 Query 6: Select average quantity of the supplies per shelter, along with a total count of supplies of each type available at each shelter.
