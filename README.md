@@ -6,7 +6,7 @@ Dream Team
 ## Team Members 
 1. Vivian Aguirre @vivianyaguirre
 2. Lindsey Rubury @lindseyrubury
-3. Ronit S
+3. Ronit Subramanian @ronsub101
 4. Lance Moxley @lcm85000
 
 ## Problem Description:
