@@ -66,7 +66,7 @@ Q6 Managerial Perspective: This query retrieves the average quantity of supplies
 Query 7: This query tracks volunteer involvement through the events they have participated in by shelter.
 <img width="630" alt="Q7" src="https://github.com/user-attachments/assets/1be17f7d-7e4d-437b-ab88-c98a1aa09338">
 
-Q7 Managerial Perspective: 
+Q7 Managerial Perspective: This query tracks the involvement of volunteers across various shelters by monitoring the events they have participated in. It provides valuable insights into volunteer engagement at each shelter, allowing shelter managers to assess participation levels and identify which events attract the most volunteer support. This information can help in planning future events, ensuring optimal volunteer utilization, and recognizing active volunteers. Understanding volunteer involvement is crucial for maintaining efficient shelter operations, as volunteers often play a key role in providing care and support for the animals.
 
 
 
