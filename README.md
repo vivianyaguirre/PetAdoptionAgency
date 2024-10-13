@@ -34,6 +34,8 @@ This database supports the organization of a sample Pet Adoption System. It cove
 
 ## Queries 
  INSERT QUERY TABLE HERE !!!!!
+ ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
+
 
 Query 1: Retrieve a summary of pets with health issues. Include the shelter name and the number of pets with health issues per shelter. Additionally, list their health statuses and adoption statuses in the output. 
 
