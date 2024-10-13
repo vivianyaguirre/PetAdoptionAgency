@@ -39,7 +39,7 @@ Query 3: Find out which shelters have administered the highest number of differe
 
 <img width="628" alt="Q3" src="https://github.com/user-attachments/assets/61eae06d-5fb1-4665-9a5c-1b0c73d6444b">
 
-Q3 Managerial Perspective: 
+Q3 Managerial Perspective: This query identifies shelters that have administered the highest number of different medications to their pets. It focuses on the distribution of medications across shelters, giving insight into which shelters may have more complex or varied medical needs among their animal populations. The results can help shelter managers understand where the heaviest medical intervention is occurring and may highlight shelters that require additional medical supplies, support, or funding. This information is essential for resource allocation and ensuring that shelters can continue to provide the necessary care for their animals.
 
 
 Query 4: This query calculates the average age of pets adopted from each shelter.
