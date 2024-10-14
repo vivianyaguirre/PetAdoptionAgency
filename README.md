@@ -33,7 +33,6 @@ This database supports the organization of a sample Pet Adoption System. It cove
 ![image](https://github.com/user-attachments/assets/414d6e87-04f1-4abe-b7ba-f92d63a1409c)
 
 ## Queries 
- INSERT QUERY TABLE HERE !!!!!
  ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 
 
