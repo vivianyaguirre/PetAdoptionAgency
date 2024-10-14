@@ -10,15 +10,13 @@ _The_ Dream Team
 4. Lance Moxley @lcm85000
 
 ## Problem Description:
-This database supports the organization of a sample Pet Adoption System. It covers many Pet Adoption operations including Adopting, Fostering, Pet Care, Adoption Center Supply Management, Adoption Events, Employee Supervision etc. Queries can be conducted on this database to provide managerial insight on process operations. Furthermore, through this project, we would like to perform queries on the data model in order to prove why Managers would care about this database, and how they can utilize it to improve their operational efficiency. 
+This database supports the organization of a sample Pet Adoption System. It covers many Pet Adoption operations including Adopting, Fostering, Pet Care, Adoption Center Supply Management, Adoption Events, Employee Supervision etc. The organization itself operates many different animal shelters in different locations, staffed with employees and supported by volunteers. The shelters house pets, primarily dogs, and facilitate adoptions to differrent individuals. Additionally, the system tracks treatments, medication, and volunteer participation in events hosted by the different shelters. This structure ensures that the organization can successfully manage multiple shelter locations while maintaining control over employees and volunteers. Queries can be conducted on this database to provide managerial insight on process operations. Furthermore, through this project, we would like to perform queries on the data model in order to prove why managers would care about this database, and how they can utilize it to improve their operational efficiency. 
 
 
 ## Data Model 
 Explanation of the Data Model:
 
-Our model is based on the operations of a hypothetical Pet Adoption Agency. The Shelter Locations are the main part of the data model, where many of the different aspects of a pet adoption agency are located. A single shelter location can have many employees, as represented by a one to many relationship between the ShelterLocations and Employees entities. A shelter location will have one shelter supervisor that oversees operations at the shelter and is in charge of the many employees.
-
-
+Our model is based on the operations of a hypothetical Pet Adoption Agency. 
 ![pet-eer](https://github.com/user-attachments/assets/ee5abaf2-832e-4053-b8b0-7ee07b7c0317)
 
 ## Data Dictionary 
