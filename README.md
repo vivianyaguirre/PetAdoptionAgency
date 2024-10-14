@@ -16,7 +16,9 @@ This database supports the organization of a sample Pet Adoption System. It cove
 ## Data Model 
 Explanation of the Data Model:
 
-Our model is based on the operations of a hypothetical Pet Adoption Agency. 
+Our model is based on the operations of a hypothetical Pet Adoption Agency. The Shelter Locations are the main part of the data model, where many of the different aspects of a pet adoption agency are located. A single shelter location can have many employees, as represented by a one to many relationship between the ShelterLocations and Employees entities. A shelter location will have one shelter supervisor that oversees operations at the shelter and is in charge of the many employees.
+
+
 ![pet-eer](https://github.com/user-attachments/assets/ee5abaf2-832e-4053-b8b0-7ee07b7c0317)
 
 ## Data Dictionary 
