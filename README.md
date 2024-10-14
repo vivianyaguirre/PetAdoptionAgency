@@ -1,7 +1,7 @@
 # Dream Team MIST 4610 Group Project 1
 
 ## Team Name 
-Dream Team
+_The_ Dream Team
 
 ## Team Members 
 1. Vivian Aguirre @vivianyaguirre
