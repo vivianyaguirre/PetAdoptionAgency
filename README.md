@@ -14,6 +14,9 @@ This database supports the organization of a sample Pet Adoption System. It cove
 
 
 ## Data Model 
+Explanation of the Data Model:
+
+Our model is based on the operations of a hypothetical Pet Adoption Agency. 
 ![pet-eer](https://github.com/user-attachments/assets/ee5abaf2-832e-4053-b8b0-7ee07b7c0317)
 
 ## Data Dictionary 
